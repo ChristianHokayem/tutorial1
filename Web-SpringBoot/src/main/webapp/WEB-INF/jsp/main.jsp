@@ -6,6 +6,13 @@
 
 <h1>"HI"</h1>
 <h2>${name}</h2>
+<h3>${text}</h3>
+
+<form action="action" >
+     <input type = "submit" value="a" name = "action1"/>
+</form>
+
+
 </body>
 
 </html>
